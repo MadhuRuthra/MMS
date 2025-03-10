@@ -1,0 +1,188 @@
+Data Backup API Page : User : '' access this page on 2023-01-30 00:01:01
+table_daily_backup Page : backup_date:[29012023] on 2023-01-30 00:01:01
+table_daily_backup Page : exp_result1:[CREATE TABLE mms_service_backup.visitor_list_29012023 like mms_service.visitor_list] on 2023-01-30 00:01:01
+table_daily_backup Page : exp_result2:[insert into mms_service_backup.visitor_list_29012023 select * from mms_service.visitor_list where date(visitor_list_entdate) = '2023-01-29'] on 2023-01-30 00:01:03
+table_daily_backup Page : exp_result3:[delete from mms_service.visitor_list where date(visitor_list_entdate) = '2023-01-29'] on 2023-01-30 00:01:04
+table_daily_backup Page : exp_result3:[delete from mms_service.visitor_list where date(visitor_list_entdate) = '2023-01-29'] Success on 2023-01-30 00:01:05
+Dashboard Page : User :  access the page on 2023-01-30 09:18:50
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":0,"cnt_visitor":0,"cnt_male":0,"cnt_unique_male":0,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":0,"cnt_registration":0}]}) on 2023-01-30 09:18:50
+Dashboard Page : User :  executed the Query ({"num_of_rows":0,"response_status":201,"response_msg":"Failed the Select Query"}) on 2023-01-30 09:18:50
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:18:56
+Dashboard Page : User :  access the page on 2023-01-30 09:20:53
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":0,"cnt_visitor":0,"cnt_male":0,"cnt_unique_male":0,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":0,"cnt_registration":0}]}) on 2023-01-30 09:20:53
+Dashboard Page : User :  executed the Query ({"num_of_rows":0,"response_status":201,"response_msg":"Failed the Select Query"}) on 2023-01-30 09:20:53
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:21:00
+Dashboard Page : User :  access the page on 2023-01-30 09:22:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":0,"cnt_visitor":0,"cnt_male":0,"cnt_unique_male":0,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":0,"cnt_registration":0}]}) on 2023-01-30 09:22:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":0,"response_status":201,"response_msg":"Failed the Select Query"}) on 2023-01-30 09:22:26
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:22:28
+User List Page : User :  access the page on 2023-01-30 09:22:31
+Dashboard Page : User :  access the page on 2023-01-30 09:24:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":0,"cnt_visitor":0,"cnt_male":0,"cnt_unique_male":0,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":0,"cnt_registration":0}]}) on 2023-01-30 09:24:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":0,"response_status":201,"response_msg":"Failed the Select Query"}) on 2023-01-30 09:24:26
+User List Page : User :  access the page on 2023-01-30 09:24:31
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:25:50
+User List Page : User :  access the page on 2023-01-30 09:26:32
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:27:51
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:28:26
+Index Page : celebdigital executed the query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","response_result":[{"user_id":1,"user_master_id":1,"user_name":"celebdigital","login_id":"celebdigital","login_password":"e58a3754522a05c1ff4d231f8e8cc1bd","user_email":"arun@yeejai.com","user_mobile":"8888888888","usr_mgt_status":"Y","usr_mgt_entry_date":"2021-12-30T17:22:20.000Z"}]}) on 2023-01-30 09:28:26
+Index Page : celebdigital logged in successfully on 2023-01-30 09:28:26
+Dashboard Page : User :  access the page on 2023-01-30 09:28:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":3,"cnt_visitor":3,"cnt_male":3,"cnt_unique_male":3,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":3,"cnt_registration":0}]}) on 2023-01-30 09:28:26
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":3}]}) on 2023-01-30 09:28:26
+User List Page : User :  access the page on 2023-01-30 09:28:32
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:28:39
+User List Page : User :  access the page on 2023-01-30 09:29:50
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:29:51
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:30:23
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:30:41
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:30:55
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:31:17
+User List Page : User :  access the page on 2023-01-30 09:31:20
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:32:19
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:32:56
+User List Page : User :  access the page on 2023-01-30 09:33:03
+Dashboard Page : User :  access the page on 2023-01-30 09:33:22
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:33:22
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:33:22
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:33:27
+Index Page : celebdigital executed the query ({"num_of_rows":0,"response_status":201,"response_msg":"Invalid Password. Kindly try again with the valid details!"}) on 2023-01-30 09:33:27
+Index Page : celebdigital logged in failed [Invalid Password] on 2023-01-30 09:33:27
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:33:33
+Index Page : celebdigital executed the query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","response_result":[{"user_id":1,"user_master_id":1,"user_name":"celebdigital","login_id":"celebdigital","login_password":"e58a3754522a05c1ff4d231f8e8cc1bd","user_email":"arun@yeejai.com","user_mobile":"8888888888","usr_mgt_status":"Y","usr_mgt_entry_date":"2021-12-30T17:22:20.000Z"}]}) on 2023-01-30 09:33:33
+Index Page : celebdigital logged in successfully on 2023-01-30 09:33:33
+Dashboard Page : User :  access the page on 2023-01-30 09:33:33
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:33:33
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:33:33
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:33:35
+Index Page : celebdigital executed the query ({"num_of_rows":0,"response_status":201,"response_msg":"Invalid Password. Kindly try again with the valid details!"}) on 2023-01-30 09:33:35
+Index Page : celebdigital logged in failed [Invalid Password] on 2023-01-30 09:33:35
+User List Page : User :  access the page on 2023-01-30 09:34:20
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:34:32
+Index Page : celebdigital executed the query ({"num_of_rows":0,"response_status":201,"response_msg":"Invalid Password. Kindly try again with the valid details!"}) on 2023-01-30 09:34:32
+Index Page : celebdigital logged in failed [Invalid Password] on 2023-01-30 09:34:32
+Index Page : Username => celebdigital trying to login on 2023-01-30 09:34:37
+Index Page : celebdigital executed the query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","response_result":[{"user_id":1,"user_master_id":1,"user_name":"celebdigital","login_id":"celebdigital","login_password":"e58a3754522a05c1ff4d231f8e8cc1bd","user_email":"arun@yeejai.com","user_mobile":"8888888888","usr_mgt_status":"Y","usr_mgt_entry_date":"2021-12-30T17:22:20.000Z"}]}) on 2023-01-30 09:34:37
+Index Page : celebdigital logged in successfully on 2023-01-30 09:34:37
+Dashboard Page : User :  access the page on 2023-01-30 09:34:37
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:34:37
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:34:37
+Dashboard Page : User :  access the page on 2023-01-30 09:34:42
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:34:42
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:34:42
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:34:42
+Dashboard Page : User :  access the page on 2023-01-30 09:34:49
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:34:49
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:34:49
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:34:56
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:35:06
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:36:26
+Dashboard Page : User :  access the page on 2023-01-30 09:36:43
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:36:43
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:36:43
+Dashboard Page : User :  access the page on 2023-01-30 09:36:50
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":4,"cnt_visitor":4,"cnt_male":4,"cnt_unique_male":4,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":4,"cnt_registration":0}]}) on 2023-01-30 09:36:50
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":4}]}) on 2023-01-30 09:36:50
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:37:06
+Dashboard Page : User :  access the page on 2023-01-30 09:38:18
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":5,"cnt_male":5,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":5,"cnt_registration":0}]}) on 2023-01-30 09:38:18
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":5}]}) on 2023-01-30 09:38:18
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:38:26
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:38:39
+Dashboard Page : User :  access the page on 2023-01-30 09:38:43
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":6,"cnt_male":6,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":6,"cnt_registration":0}]}) on 2023-01-30 09:38:44
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":6}]}) on 2023-01-30 09:38:44
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:38:50
+Dashboard Page : User :  access the page on 2023-01-30 09:38:51
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":6,"cnt_male":6,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":6,"cnt_registration":0}]}) on 2023-01-30 09:38:51
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":6}]}) on 2023-01-30 09:38:51
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:39:06
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:40:02
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:40:06
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:40:28
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:40:32
+Real Time Hourly Summary Report Page : User :  access the page on 2023-01-30 09:40:36
+Dashboard Page : User :  access the page on 2023-01-30 09:40:44
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":6,"cnt_male":6,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":6,"cnt_registration":0}]}) on 2023-01-30 09:40:44
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":6}]}) on 2023-01-30 09:40:44
+User List Page : User :  access the page on 2023-01-30 09:40:44
+User Registration Page : User :  access the page on 2023-01-30 09:40:49
+Dashboard Page : User :  access the page on 2023-01-30 09:40:51
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":6,"cnt_male":6,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":6,"cnt_registration":0}]}) on 2023-01-30 09:40:51
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":6}]}) on 2023-01-30 09:40:51
+LTD Report Page : User :  access the page on 2023-01-30 09:40:57
+MTD Report Page : User :  access the page on 2023-01-30 09:41:40
+LMTD Report Page : User :  access the page on 2023-01-30 09:41:57
+YTD Report Page : User :  access the page on 2023-01-30 09:42:00
+LTD Report Page : User :  access the page on 2023-01-30 09:42:03
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:42:16
+MTD Report Page : User :  access the page on 2023-01-30 09:42:20
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:42:29
+Dashboard Page : User :  access the page on 2023-01-30 09:42:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":7,"cnt_male":7,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":7,"cnt_registration":0}]}) on 2023-01-30 09:42:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":7}]}) on 2023-01-30 09:42:45
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:42:49
+Dashboard Page : User :  access the page on 2023-01-30 09:42:52
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":6,"cnt_visitor":7,"cnt_male":7,"cnt_unique_male":6,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":7,"cnt_registration":0}]}) on 2023-01-30 09:42:52
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":7}]}) on 2023-01-30 09:42:52
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:43:10
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:43:18
+Dashboard Page : User :  access the page on 2023-01-30 09:43:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":7,"cnt_male":7,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":7,"cnt_registration":0}]}) on 2023-01-30 09:43:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":7}]}) on 2023-01-30 09:43:45
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:43:58
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:44:17
+MTD Report Page : User :  access the page on 2023-01-30 09:44:20
+Dashboard Page : User :  access the page on 2023-01-30 09:44:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":7,"cnt_male":7,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":7,"cnt_registration":0}]}) on 2023-01-30 09:44:45
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":7}]}) on 2023-01-30 09:44:45
+Dashboard Page : User :  access the page on 2023-01-30 09:44:52
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":7,"cnt_male":7,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":7,"cnt_registration":0}]}) on 2023-01-30 09:44:52
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":7}]}) on 2023-01-30 09:44:52
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:44:57
+LTD Report Page : User :  access the page on 2023-01-30 09:45:25
+Dashboard Page : User :  access the page on 2023-01-30 09:45:47
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:45:47
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:45:47
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:46:11
+MTD Report Page : User :  access the page on 2023-01-30 09:46:21
+LTD Report Page : User :  access the page on 2023-01-30 09:46:33
+Dashboard Page : User :  access the page on 2023-01-30 09:46:46
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:46:46
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:46:46
+User Registration Page : User :  access the page on 2023-01-30 09:46:50
+Dashboard Page : User :  access the page on 2023-01-30 09:46:53
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:46:53
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:46:53
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:47:06
+Dashboard Page : User :  access the page on 2023-01-30 09:47:06
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:47:06
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:47:06
+Dashboard Page : User :  access the page on 2023-01-30 09:47:12
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:47:12
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:47:12
+User Registration Page : User :  access the page on 2023-01-30 09:47:15
+User Registration Page : User :  access the page on 2023-01-30 09:47:19
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:47:41
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:47:49
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:48:14
+MTD Report Page : User :  access the page on 2023-01-30 09:48:21
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:48:26
+LTD Report Page : User :  access the page on 2023-01-30 09:48:33
+Dashboard Page : User :  access the page on 2023-01-30 09:48:46
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:48:46
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:48:46
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:49:11
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:49:21
+Dashboard Page : User :  access the page on 2023-01-30 09:49:23
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:49:23
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:49:23
+User Registration Page : User :  access the page on 2023-01-30 09:49:31
+Dashboard Page : User :  access the page on 2023-01-30 09:49:31
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"cnt_visitor_id":5,"cnt_visitor":8,"cnt_male":8,"cnt_unique_male":5,"cnt_female":0,"cnt_unique_female":0,"cnt_others":0,"cnt_unique_others":0,"cnt_kids":0,"cnt_adult":8,"cnt_registration":0}]}) on 2023-01-30 09:49:31
+Dashboard Page : User :  executed the Query ({"num_of_rows":1,"response_status":200,"response_msg":"Success","result":[{"hour_time":9,"visitor_count":8}]}) on 2023-01-30 09:49:31
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:49:35
+MTD Report Page : User :  access the page on 2023-01-30 09:50:22
+LTD Report Page : User :  access the page on 2023-01-30 09:50:34
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:51:22
+Real Time Hourly Report Page : User :  access the page on 2023-01-30 09:51:35
